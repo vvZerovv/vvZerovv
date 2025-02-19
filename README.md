@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/vvZerovv/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvZerovv)](https://github.com/vvZerovv/github-readme-stats)
 <!--
 **vvZerovv/vvZerovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
